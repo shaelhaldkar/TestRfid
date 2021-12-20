@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NfcTest Clone</string>
+    <string name="read">read</string>
+</resources>
